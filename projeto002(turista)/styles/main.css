@@ -1,0 +1,46 @@
+main {
+    #main-1 {
+
+        p {
+            padding-top: 50px;
+        }
+
+        h2 {
+            padding-top: 8px;
+            padding-bottom: 16px;
+        }
+    }
+
+}
+
+.main-2 {
+
+    img {
+        width: 1120px;
+        height: 350px;
+
+        border-radius: 28px;
+        margin-top: 48px;
+    }
+
+    h1 {
+        padding-top: 20px;
+    }
+
+    h2 {
+        padding-top: 4px;
+    }
+
+    ul {
+        padding-top: 20px;
+        list-style-position: inside;
+
+        #blue {
+            color: #0C51A7;
+        }
+    }
+
+    
+}
+
+

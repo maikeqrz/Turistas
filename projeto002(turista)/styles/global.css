@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --background: #F5F4F0;
+    --border-primary: #D9D9D9;
+
+    --text-primary: #1B1B1B;
+    --text-secondary: #333333;
+    --text-tertiary: #696969;
+    --text-headline: #E1624F;
+}
+
+h1 {
+    font-family: 'open sans';
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'open sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+h3 {
+    font-family: 'open sans';
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'open sans';
+    font-size: 16px;
+    font-weight: bold;
+
+    color: var(--text-headline);
+    text-transform: uppercase;
+}
+
+ul, li {
+    font-family: 'open sans';
+    font-weight: bold;
+    font-size: 16px;
+}
